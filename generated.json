@@ -1,0 +1,178 @@
+{
+  "hotels": [
+    {
+      "name": "Grand Palace Hotel",
+      "image": "https://example.com/images/grand_palace.jpg",
+      "location": "New York, NY",
+      "room_availability": 20
+    },
+    {
+      "name": "Ocean View Resort",
+      "image": "https://example.com/images/ocean_view.jpg",
+      "location": "Miami, FL",
+      "room_availability": 15
+    },
+    {
+      "name": "Mountain Retreat",
+      "image": "https://example.com/images/mountain_retreat.jpg",
+      "location": "Aspen, CO",
+      "room_availability": 10
+    },
+    {
+      "name": "City Center Inn",
+      "image": "https://example.com/images/city_center_inn.jpg",
+      "location": "Chicago, IL",
+      "room_availability": 25
+    },
+    {
+      "name": "Lakeside Lodge",
+      "image": "https://example.com/images/lakeside_lodge.jpg",
+      "location": "Lake Tahoe, CA",
+      "room_availability": 12
+    },
+    {
+      "name": "Desert Oasis Hotel",
+      "image": "https://example.com/images/desert_oasis.jpg",
+      "location": "Phoenix, AZ",
+      "room_availability": 30
+    },
+    {
+      "name": "Historic Downtown Hotel",
+      "image": "https://example.com/images/historic_downtown.jpg",
+      "location": "Boston, MA",
+      "room_availability": 8
+    },
+    {
+      "name": "Seaside Bungalow",
+      "image": "https://example.com/images/seaside_bungalow.jpg",
+      "location": "San Diego, CA",
+      "room_availability": 18
+    },
+    {
+      "name": "Urban Escape",
+      "image": "https://example.com/images/urban_escape.jpg",
+      "location": "San Francisco, CA",
+      "room_availability": 22
+    },
+    {
+      "name": "Countryside Inn",
+      "image": "https://example.com/images/countryside_inn.jpg",
+      "location": "Nashville, TN",
+      "room_availability": 16
+    },
+    {
+      "name": "Luxury Bay Resort",
+      "image": "https://example.com/images/luxury_bay.jpg",
+      "location": "Tampa, FL",
+      "room_availability": 14
+    },
+    {
+      "name": "Mountain View Hotel",
+      "image": "https://example.com/images/mountain_view.jpg",
+      "location": "Denver, CO",
+      "room_availability": 20
+    },
+    {
+      "name": "Tropical Paradise Inn",
+      "image": "https://example.com/images/tropical_paradise.jpg",
+      "location": "Honolulu, HI",
+      "room_availability": 25
+    },
+    {
+      "name": "Downtown Luxury Suites",
+      "image": "https://example.com/images/downtown_luxury.jpg",
+      "location": "Seattle, WA",
+      "room_availability": 9
+    },
+    {
+      "name": "Historic City Hotel",
+      "image": "https://example.com/images/historic_city.jpg",
+      "location": "Philadelphia, PA",
+      "room_availability": 13
+    },
+    {
+      "name": "Beachfront Resort",
+      "image": "https://example.com/images/beachfront_resort.jpg",
+      "location": "Myrtle Beach, SC",
+      "room_availability": 17
+    },
+    {
+      "name": "Garden Inn",
+      "image": "https://example.com/images/garden_inn.jpg",
+      "location": "Savannah, GA",
+      "room_availability": 11
+    },
+    {
+      "name": "Cityscape Hotel",
+      "image": "https://example.com/images/cityscape_hotel.jpg",
+      "location": "Dallas, TX",
+      "room_availability": 19
+    },
+    {
+      "name": "Mountain Lodge",
+      "image": "https://example.com/images/mountain_lodge.jpg",
+      "location": "Salt Lake City, UT",
+      "room_availability": 10
+    },
+    {
+      "name": "Riverside Inn",
+      "image": "https://example.com/images/riverside_inn.jpg",
+      "location": "New Orleans, LA",
+      "room_availability": 21
+    },
+    {
+      "name": "Sunset Boulevard Hotel",
+      "image": "https://example.com/images/sunset_boulevard.jpg",
+      "location": "Los Angeles, CA",
+      "room_availability": 7
+    },
+    {
+      "name": "Urban Oasis",
+      "image": "https://example.com/images/urban_oasis.jpg",
+      "location": "Austin, TX",
+      "room_availability": 18
+    },
+    {
+      "name": "Harborview Hotel",
+      "image": "https://example.com/images/harborview.jpg",
+      "location": "Portland, OR",
+      "room_availability": 22
+    },
+    {
+      "name": "Downtown Retreat",
+      "image": "https://example.com/images/downtown_retreat.jpg",
+      "location": "Atlanta, GA",
+      "room_availability": 12
+    },
+    {
+      "name": "Hilltop Inn",
+      "image": "https://example.com/images/hilltop_inn.jpg",
+      "location": "San Antonio, TX",
+      "room_availability": 14
+    },
+    {
+      "name": "Seaside Escape",
+      "image": "https://example.com/images/seaside_escape.jpg",
+      "location": "Virginia Beach, VA",
+      "room_availability": 16
+    },
+    {
+      "name": "Forest Retreat",
+      "image": "https://example.com/images/forest_retreat.jpg",
+      "location": "Asheville, NC",
+      "room_availability": 15
+    },
+    {
+      "name": "Metro Plaza Hotel",
+      "image": "https://example.com/images/metro_plaza.jpg",
+      "location": "Minneapolis, MN",
+      "room_availability": 13
+    },
+    {
+      "name": "Coastal Breeze Inn",
+      "image": "https://example.com/images/coastal_breeze.jpg",
+      "location": "Charleston, SC",
+      "room_availability": 20
+    }
+  ]
+}
